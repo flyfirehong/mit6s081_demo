@@ -1,5 +1,4 @@
 #include "kernel/types.h"
-#include "kernel/start.h"
 #include "user/user.h"
 
 int
